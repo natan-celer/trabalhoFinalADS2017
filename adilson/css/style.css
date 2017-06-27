@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    background-color: #76939a;
+}
+
+.menu {
+    display: block;
+    border-right: solid 2px #0a0a0a;
+    float: left;
+}
+
+.menu li {
+    padding: 10px;
+    font-size: 20px;
+    color: #fff;
+}
+
+#conteudo {
+    margin: 70px 20px 20px 20px;
+    min-height: 100px;
+    font-size: #fff;
+    color: #fff;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.botao {
+    float: left;
+}
+
+.divmenu {
+    height: 100vh;
+}
+
+.cad {
+    margin-left: 150px;
+    color: black;
+}
+
+.cad_1 {
+    margin-left: 130px;
+    color: black;
+    font-size: 20px;
+}
+
+.text-center {
+    text-align: center;
+    padding: 5px;
+}
+
+.form {
+    margin-left: 5px;
+}
+
+.form1 {
+    margin-left: 15px;
+}
+
+.fonte {
+    margin-left: 150px;
+}

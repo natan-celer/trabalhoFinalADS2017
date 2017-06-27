@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    background-color: #ffff04;
+}
+
+.menu {
+    display: block;
+    border-right: solid 4px #0a0a0a;
+    float: left;
+    
+}
+ul{
+    list-style-type: square;
+}
+
+.menu li {
+    padding: 10px;
+    font-size: 20px;
+    color: #FF0500;
+}
+
+#conteudo {
+    margin: 0px 20px 20px 20px;
+    min-height: 100px;
+    font-size: #009b24;
+    padding: 10px;
+    margin-left: 140px;
+
+}
+
+.menu li a {
+    text-decoration: none;
+    color: #101010;
+}
+
+.botao {
+    float: left;
+}
+.divmenu{
+    height: 100vh;
+}
+.cad{
+    color: #0d0d0d;
+    
+}
+.center{
+    text-align: center;
+}
+.form-item{
+    padding: 10px;
+}
+.form-item label {
+    min-width: 45px;
+    display: inline-block;
+}

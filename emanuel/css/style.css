@@ -1,0 +1,70 @@
+/* template do site */
+body{
+    margin: 0;
+    background-image: url(images/livros.jpg);
+}
+
+.menu{
+    display: block;
+}
+
+.divmenu{
+    background-color: aqua;
+    height: 47px;
+    width: 100%;
+    border: solid 3px firebrick;
+}
+
+.menu li{
+    display: inline-block;
+    float: left;
+    padding: 8px;
+    font-size: 20px;
+    color: firebrick;
+    border: solid 3px firebrick;
+    margin: 1px;
+    
+}
+
+#conteudo{
+    margin: 30px 20px 20px 20px;
+    border: solid 10px aqua;
+    min-height: 100px;
+    background-color: rgba(0, 59, 255, 0.8);
+    padding: 0px 10px 10px 10px;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: firebrick;
+}
+/* fim do template do site*/
+
+/* formatação do titulo das paginas*/
+.titulopaginas{
+    font-size: 45px;
+    font-family: 'Pacifico', cursive;
+    color: chartreuse;
+}
+/* fim formatação do titulo das paginas*/
+
+/* formatação do texto das paginas*/
+.textopaginas{
+    font-size: 20px;
+    color: aliceblue;
+    font-family: 'Courgette', cursive;
+}
+/* fim da formatação do texto das paginas*/
+
+/*formatação tabela pagina listagem*/
+.tabela{
+ border-color: aliceblue;
+    padding: 5px;
+}
+.textotabela{
+    font-size: 30px;
+    color: darkturquoise;
+    font-family: 'Courgette', cursive;
+}
+/*fim da formatação da tabela*/
+
