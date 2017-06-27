@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    background-color: #404e6d;
+    font-family: 'Inconsolata', monospace;
+}
+
+body * {
+    color: #fcfcfc;
+}
+
+small {
+    font-size: 50%;
+    color: #eee !important;
+}
+
+.cabecalho {
+    display: block;
+    padding: 10px;
+    border-bottom: solid 1px #ccc;
+    text-align: center;
+}
+
+.trabalhos {
+    display: block;
+    margin: 0 2% 0 2%;
+    background-color: #253353;
+    height: 70vh;
+    padding: 10px 10px 10px 30px;
+}
+
+.aluno:hover {
+    background-color: #7784A0;
+    padding-left: 12px;
+}
+
+.aluno {
+    display: block;
+    padding: 8px;
+    margin: 3px;
+}
+
+.aluno a {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.aluno a:visited {
+    color: #e3e3ff;
+}
+
+.off {
+    color: #9a9a9a;
+}
+
+.descricao {
+    padding: 12px 12px 12px 30px;
+}
